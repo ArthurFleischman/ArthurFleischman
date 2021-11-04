@@ -14,6 +14,10 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+  <img align="center" alt="aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  
+  
   
   <img align="right" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/33187588?s=400&u=e9aa90f94f8c36f6dde56c28e7dd9cad66b10f9a&v=4">
 </div>
