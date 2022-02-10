@@ -1,4 +1,8 @@
 ## Hi my name is Arthur Fleischman, I'm engineering/technology lover, nice to meet you!
+
+<img align="right" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/33187588?s=400&u=e9aa90f94f8c36f6dde56c28e7dd9cad66b10f9a&v=4">
+</div>
+
 <div align="center">
   <a href="https://github.com/ArthurFleischman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurFleischman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,8 +21,3 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  
-  
-  
-  <img align="right" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/33187588?s=400&u=e9aa90f94f8c36f6dde56c28e7dd9cad66b10f9a&v=4">
-</div>
